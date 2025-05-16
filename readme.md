@@ -1,1 +1,1 @@
-Rubu Labs
+Ruby Labs
